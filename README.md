@@ -1,11 +1,7 @@
-### Hi there 👋
+# vistormu
 
-**vistormu** is  ✨ _special_ ✨ because its `README.md`.
+Hello, my name is Victor. I am currently pursuing my PhD at the University Carlos III of Madrid, focusing on the applications of Machine Learning in soft robotics. I also have a strong passion for programming (not JavaScript), and I encourage you to explore my repositories!
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats-seven-mocha-78.vercel.app/api/top-langs/?username=vistormu&layout=compact&count_private=true&hide=javascript,html,Jupyter%20Notebook,CSS,c%23,Makefile,Tex,GLSL,qmake,M4,scilab&show_icons=true&include_all_commits=true&is_fork=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on robotic manipulation with Reinforcement Learning at the Carlos III UNiversity of Madrid.
-- 🌱 I’m currently learning Gaussian Processes applied to robotic manipulation.
-- 💬 Ask me about anything.
-- 📫 How to reach me: vimunozs@pa.uc3m.es
-- ⚡ Fun fact: I can only see through the left eye.
+Contact: vimunozs@pa.uc3m.es
